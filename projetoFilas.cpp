@@ -1,7 +1,7 @@
 #include <iostream>
 #include <queue>
 
-/*Código desenvolvido por Maria Eduarda Fodor e Pedro Xavier Oliveira.*/
+/*Código desenvolvido por Maria Eduarda Fodor.*/
 
 using namespace std;
 
